@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="Program.Person.Person(car,age,name)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
