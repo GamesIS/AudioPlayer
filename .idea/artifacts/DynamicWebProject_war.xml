@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="DynamicWebProject:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="DynamicWebProject.war">
+      <element id="artifact" artifact-name="DynamicWebProject:war exploded" />
+    </root>
+  </artifact>
+</component>
